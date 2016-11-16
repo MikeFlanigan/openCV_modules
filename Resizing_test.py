@@ -28,7 +28,7 @@ cv2.namedWindow("win_small_from_cam",cv2.WINDOW_NORMAL)
 cv2.resizeWindow("win_small_from_cam",640,480)
 
 ## read from camera
-camera = cv2.VideoCapture(0)
+camera = cv2.VideoCapture(1)
 camera2 = cv2.VideoCapture(0)
 
 ## setting capture properties, 
