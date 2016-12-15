@@ -12,8 +12,8 @@ black = [0,0,0]
 green = (0,255,0)
 
 ## ---- USER CONTROLS --------------------
-##cap = cv2.VideoCapture('./Videos/dist_vid_nicks.avi')
-cap = cv2.VideoCapture('./Videos/Data_FrstRecords_FPS6_2016_11_9-21_56.avi')
+cap = cv2.VideoCapture('./Videos/dist_vid_nicks.avi')
+##cap = cv2.VideoCapture('./Videos/Data_FrstRecords_FPS6_2016_11_9-21_56.avi')
 ##cap = cv2.VideoCapture(0)
 
 disp_w = int(640/1.2)
